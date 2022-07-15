@@ -1,0 +1,20 @@
+name: templatelang
+version: 0.1.0
+
+authors:
+  - Dorian Marié <dorian@thoughtbot.com>
+
+targets:
+  templatelang:
+    main: src/templatelang.cr
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+  template:
+    github: dorianmariefr/template
+    branch: main
+
+crystal: 1.5.0
+
+license: MIT

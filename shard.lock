@@ -1,0 +1,26 @@
+version: 2.0
+shards:
+  backtracer:
+    git: https://github.com/sija/backtracer.cr.git
+    version: 1.2.1
+
+  exception_page:
+    git: https://github.com/crystal-loot/exception_page.git
+    version: 0.2.2
+
+  kemal:
+    git: https://github.com/kemalcr/kemal.git
+    version: 1.2.0
+
+  language:
+    git: https://github.com/dorianmariefr/language.git
+    version: 0.3.1+git.commit.819b272e8062cc2ad1a927f9643967cee7e94eb4
+
+  radix:
+    git: https://github.com/luislavena/radix.git
+    version: 0.4.1
+
+  template:
+    git: https://github.com/dorianmariefr/template.git
+    version: 0.1.0+git.commit.0b8a143b2f7111f493ad22a4e9067f520eb8446d
+
